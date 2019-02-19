@@ -1,3 +1,5 @@
 #了解form组件
-[Image text](img-folder/addbook.png)
-[Image text](img-folder/editbook.png)
+![Image](https://github.com/HQCfly/BookFrom/blob/master/img-folder/addbook.png)
+![Image](
+        https://github.com/HQCfly/BookFrom/blob/master/img-folder/editbook.png
+      )
