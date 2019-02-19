@@ -1,3 +1,3 @@
 #了解form组件
-[Image text](img-folder/addbook.png)
-[Image text](img-folder/editbook.png)
+[Image text](BookFrom/img-folder/addbook.png)
+[Image text](BookFrom/img-folder/editbook.png)
